@@ -57,6 +57,7 @@ This list contains the most useful tools and data for creating web animations.
 - [AutoAnimate](https://github.com/formkit/auto-animate) - Zero-config, drop-in animation utility for smooth DOM transitions.
 - [KUTE.js](https://github.com/thednp/kute.js) - JavaScript animation engine for modern browsers.
 - [Rive](https://github.com/rive-app/rive-wasm) - Web runtime for interactive Rive animations.
+- [claude-motion](https://github.com/TheOnlyFusionCube/claude-motion) - Framework-independent DOM/SVG and Three.js motion graphics renderer with deterministic, frame-exact MP4 export.
 
 ## CSS
 
@@ -131,7 +132,6 @@ This list contains the most useful tools and data for creating web animations.
 - [Remotion](https://github.com/remotion-dev/remotion) - Create videos programmatically with React.
 - [React Three Fiber](https://github.com/pmndrs/react-three-fiber) - A React renderer for Three.js.
 - [React Transition Group](https://github.com/reactjs/react-transition-group) - Perform animations when a React component enters or leaves the DOM.
-- [claude-motion](https://github.com/TheOnlyFusionCube/claude-motion) - Programmatic motion graphics runtime to direct and render launch-quality 2D/3D motion films, UI walkthroughs, and physics simulations with deterministic 60 FPS video export.
 
 ## GUI tools
 
